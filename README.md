@@ -1,50 +1,50 @@
-<<<<<<< HEAD
-# Todo-app
-A simple todo list app built using HTML, CSS and Vanilla JavaScript.
+To-Do App 📝🎯
+A simple and user-friendly To-Do list web application built with HTML, CSS, and JavaScript. It helps users stay organized and productive by allowing them to manage tasks efficiently. The app supports adding, editing, and deleting tasks, with an easy-to-use interface. It also features a dark mode 🌙 for a personalized experience.
 
-Live deployment: [Link](https://vaishnav-sh.github.io/todo-app/)
+Features ✨
+Add Tasks ➕: Easily add tasks to your to-do list.
 
-## Running the project
-To run this project locally you need to first fork it and then clone it<br>
-Using SSH:
-```
-git clone git@github.com:<your_github_username>/todo-app.git
-```
-Using HTTPS
-```
-git clone https://github.com/<your_github_username>/todo-app.git
-```
+Edit Tasks ✏️: Edit existing tasks with a simple click.
 
-## Contributing to the project
-To make any contributions, follow the below steps and also don't forget to star this repository.<br>
-1. Fork this repository and clone it<br>
-Using SSH:
-```
-git clone git@github.com:<your_github_username>/todo-app.git
-```
-Using HTTPS
-```
-git clone https://github.com/<your_github_username>/todo-app.git
-```
-<br>
+Delete Tasks 🗑️: Remove tasks from your list once they are completed or no longer needed.
 
-2. Create a new branch and switch to it
-```
-cd todo-app
-git checkout -b <new_branch_name>
-```
-<br>
+Dark Mode 🌑: Toggle between light and dark themes for a more customized look.
 
-3. Make the changes to the code on that branch, commit and then push to GitHub.
-```
-git push origin <new_branch_name>
-```
-4. Create a Pull Request for your changes.
+Responsive Design 📱💻: Optimized for use on both desktop and mobile devices.
 
-<br>
+Tech Stack 💻🛠️
+Frontend:
 
-## User Interface
-![Todo-app UI](./design/todo-app.png)
-=======
-# To-Do-app
->>>>>>> f8bcd497a13caad5545a09fdde647b753bd39443
+HTML5 🌍
+
+CSS3 🎨
+
+JavaScript (ES6+) ⚡
+
+How to Use 🚀
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/KhyatiChahal/To-Do-app.git
+Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd To-Do-app
+Open index.html in your browser 🌐 to view the app.
+
+Interact with the app:
+
+Add new tasks by typing in the input field and clicking the Add ➕ button.
+
+Edit tasks by clicking the task text ✏️.
+
+Delete tasks by clicking the Delete 🗑️ icon next to each task.
+
+Live Demo 🌍
+Check out the live version of the app here: To-Do App on Vercel 🎉
+
+Screenshots 📸
