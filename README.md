@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo-app
 A simple todo list app built using HTML, CSS and Vanilla JavaScript.
 
@@ -44,3 +45,6 @@ git push origin <new_branch_name>
 
 ## User Interface
 ![Todo-app UI](./design/todo-app.png)
+=======
+# To-Do-app
+>>>>>>> f8bcd497a13caad5545a09fdde647b753bd39443
